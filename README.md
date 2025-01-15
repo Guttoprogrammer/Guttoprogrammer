@@ -3,8 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
 
-![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=guttoprogrammer&show_icons=true&theme=radical) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guttoprogrammer&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=guttoprogrammer&show_icons=true&theme=radical)
 
 
 #### Tecnologias que estou estudando:
