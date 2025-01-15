@@ -1,10 +1,11 @@
 ### Oi, José Augusto aqui 👋😆
 #### Futuro Dev FullStack!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
 
 ![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=guttoprogrammer&show_icons=true&theme=radical) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guttoprogrammer&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Tecnologias que estou estudando:
 <div style="display: inline_block"> </br>
@@ -20,7 +21,11 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div
-    
-#### Em busca de começar uma carreira no desenvolvimento!🤓😎
+
+#### Em busca de começar uma carreira profissional no desenvolvimento!🤓😎
+<img align="center" alt="" width="100px" src="https://media.tenor.com/Vl-4HkJxQecAAAAi/vortex-ex.gif">
+
+
+
 
 
