@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![José Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=guttoprogrammer&show_icons=true&theme=radical)
+![José Augusto GitHub stats](https://github-readme-stats.vercel.app/api?username=guttoprogrammer&show_icons=true&theme=radical)
 
 #### Tecnologias que estou estudando:
 <div style="display: inline_block"> </br>
