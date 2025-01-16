@@ -21,9 +21,8 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div
 
-#### Em busca de começar uma carreira profissional no desenvolvimento!🤓😎
-<img align="center" alt="" width="100px" src="https://media.tenor.com/Vl-4HkJxQecAAAAi/vortex-ex.gif">
-
+### Em busca de começar uma carreira profissional no desenvolvimento!🤓😎 
+<img align="center" alt="" width="100px" margin="20px" src="https://media.tenor.com/Vl-4HkJxQecAAAAi/vortex-ex.gif">
 
 
 
