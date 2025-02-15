@@ -14,7 +14,7 @@
     
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guttoprogrammer)](https://github.com/guttoprogrammer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guttoprogrammer&layout=donut)](https://github.com/guttoprogrammer/github-readme-stats)
 
 #### Tecnologias que também pretendo estudar:
 
