@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guttoprogrammer&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guttoprogrammer&theme=dark&show_icons=true)
 
 
 
