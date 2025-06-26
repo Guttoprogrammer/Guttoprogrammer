@@ -20,7 +20,6 @@
 </div>
 
 ### Em busca de começar uma carreira profissional no desenvolvimento!🤓😎 
-<img align="center" alt="" width="100px" margin="20px" src="https://media.tenor.com/Vl-4HkJxQecAAAAi/vortex-ex.gif">
 
 
 
