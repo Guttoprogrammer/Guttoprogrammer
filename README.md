@@ -16,7 +16,7 @@
     <img align="center" alt="jquery" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="jquery" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
     <img align="center" alt="jquery" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white">
+    <img align="center" alt="jquery" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"> </br>
     <img align="center" alt="jquery" src="https://img.shields.io/badge/Grunt.js-FBA919?style=for-the-badge&logo=grunt&logoColor=black">
 </div>
 
