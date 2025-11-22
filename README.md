@@ -18,7 +18,7 @@
     <img align="center" alt="jquery" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
     <img align="center" alt="jquery" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"> </br></br>
     <img align="center" alt="jquery" src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black">
-    <img align="center" alt="jquery" src="[https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)">
+    <img align="center" alt="jquery" src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black">
 </div>
 
 ### Em busca de começar uma carreira profissional no desenvolvimento!🤓😎 
