@@ -34,10 +34,11 @@
 <h2 align="center">🌐 Onde me encontrar</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/feed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-sousa-santos-9343aa325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
 </div>
+
 
 ###
 
