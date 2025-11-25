@@ -1,6 +1,6 @@
 ### Oi, José Augusto aqui 👋😆
 #### Futuro Dev FullStack!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guttoprogrammer&layout=compact)
 #### 🛠️ Minhas stacks (e algumas que ainda estou dominando):
 <div style="display: inline-block"></br>
