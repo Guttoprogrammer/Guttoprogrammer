@@ -1,19 +1,52 @@
-### Oi, José Augusto aqui 👋😆
-#### Futuro Dev FullStack!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guttoprogrammer&layout=compact)
-#### 🛠️ Minhas stacks (e algumas que ainda estou dominando):
-<div style="display: inline-block"></br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white"> </br></br>
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black">
-    <img align="center" alt="jquery" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<h1 align="center">👋 E aí! Eu sou o José Augusto</h1>
+
+###
+
+<p align="center">Entusiasta de desenvolvimento Fullstack, sempre melhorando minhas skills e criando projetos para evoluir como dev!</p>
+
+###
+
+<h2 align="center">⚙️ Tecnologias que eu uso</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jQuery" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="SASS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gulp" height="60" alt="Gulp" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=less" height="60" alt="Less" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="60" alt="Grunt" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
 </div>
 
-### Em busca de começar uma carreira profissional no desenvolvimento!🤓😎
+###
+
+<h2 align="center">🌐 Onde me encontrar</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/feed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+###
+
+<h2 align="center">📊 Minhas estatísticas</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Guttoprogrammer&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=Guttoprogrammer&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" />
+</div>
+
+###
