@@ -1,12 +1,6 @@
-<h1 align="center">👋 E aí! Eu sou o José Augusto</h1>
+<h1 align="center">👋 E aí! Eu sou o Guto</h1>
 
-###
-
-<p align="center">Entusiasta de desenvolvimento Fullstack, sempre melhorando minhas skills e criando projetos para evoluir como dev!</p>
-
-###
-
-<h2 align="center">⚙️ Tecnologias que eu uso</h2>
+<p align="center">Entusiasta de desenvolvimento web, sempre estudando e criando projetos para evoluir como dev!</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
@@ -19,7 +13,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="SASS" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="Sass" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gulp" height="60" alt="Gulp" />
   <img width="12" />
@@ -32,21 +26,11 @@
 
 ###
 
-<h2 align="center">🌐 Onde me encontrar</h2>
+### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/feed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-</div>
-
-###
-
-<h2 align="center">📊 Minhas estatísticas</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guttoprogrammer&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Guttoprogrammer&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guttoprogrammer&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&layout=compact&langs_count=10&theme=dracula" />
 </div>
 
 ###
