@@ -25,8 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=less" height="60" alt="Less" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Grunt-FBC412?style=flat-square&logo=grunt&logoColor=white" alt="Grunt" height="40"/>
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="60" alt="Grunt" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
 </div>
 
