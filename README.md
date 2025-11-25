@@ -4,12 +4,12 @@
 
 <p align="center">Entusiasta de desenvolvimento Fullstack, sempre melhorando minhas skills e criando projetos para evoluir como dev!</p>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+
 ###
 
 <h2 align="center">⚙️ Tecnologias que eu uso</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
   <img width="12" />
@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=gulp" height="60" alt="Gulp" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=less" height="60" alt="Less" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="60" alt="Grunt" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
 </div>
