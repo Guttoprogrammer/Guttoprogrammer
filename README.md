@@ -34,8 +34,3 @@
 ---
 
 <h2 align="center">📊 Minhas estatísticas</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guttoprogrammer&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" />
-  <img src="https://github-profile-trophy.vercel.app?username=Guttoprogrammer&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" />
-</div>
