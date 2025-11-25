@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=less" height="60" alt="Less" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" height="60" alt="Grunt" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" height="60" alt="TypeScript" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" height="40" alt="TypeScript" />
 </div>
 
 ###
