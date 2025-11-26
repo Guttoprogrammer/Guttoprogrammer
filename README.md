@@ -35,16 +35,6 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-
-<!-- GitHub Profile Stats (funciona) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Guttoprogrammer&show_icons=true&theme=radical" height="160" />
-
-<!-- Top Languages (funciona) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&layout=compact&theme=radical" height="160" />
-
-</div>
-
 ---
 
 ## 🔥 Contribution Heatmap
