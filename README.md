@@ -47,16 +47,6 @@
 
 ---
 
-## 🧠 Skills — Distribuição por Porcentagem
-
-<div align="center">
-
-<!-- Gráfico estilo donut -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Guttoprogrammer&layout=compact&theme=radical" />
-
-</div>
-
----
 
 ## 🔥 Gráfico de Atividade
 
