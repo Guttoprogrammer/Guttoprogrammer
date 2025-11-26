@@ -33,3 +33,38 @@
 
 ---
 
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Gráfico de contribuições -->
+<img src="https://github-readme-stats.vercel.app/api?username=Guttoprogrammer&show_icons=true&theme=radical" height="180" />
+
+<!-- Gráfico de linguagens -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&layout=compact&theme=radical" height="180" />
+
+</div>
+
+---
+
+## 🧠 Skills — Distribuição por Porcentagem
+
+<div align="center">
+
+<!-- Gráfico estilo donut -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Guttoprogrammer&layout=compact&theme=radical" />
+
+</div>
+
+---
+
+## 🔥 Gráfico de Atividade
+
+<div align="center">
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guttoprogrammer&theme=react-dark&hide_border=true" />
+
+</div>
+
+
