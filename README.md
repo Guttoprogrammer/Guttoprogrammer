@@ -37,13 +37,40 @@
 
 <div align="center">
 
-<!-- Gráfico de contribuições -->
-<img src="https://github-readme-stats.vercel.app/api?username=Guttoprogrammer&show_icons=true&theme=radical" height="180" />
+<!-- GitHub Profile Stats (funciona) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Guttoprogrammer&show_icons=true&theme=radical" height="160" />
 
-<!-- Gráfico de linguagens -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&layout=compact&theme=radical" height="180" />
+<!-- Top Languages (funciona) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&layout=compact&theme=radical" height="160" />
 
 </div>
+
+---
+
+## 🔥 Contribution Heatmap
+
+<div align="center">
+
+<!-- Heatmap / Contribution Calendar (SVG gerado por ghchart) -->
+<img src="https://ghchart.rshah.org/Guttoprogrammer" alt="GitHub chart for Guttoprogrammer" />
+
+</div>
+
+---
+
+## 🧠 Skills — Distribuição por Porcentagem (Donut)
+
+> Exemplo gerado com QuickChart. Edite os números `data` conforme suas porcentagens reais.
+
+<div align="center">
+
+![Skills Donut](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['HTML','CSS','JavaScript','TypeScript','Frameworks/Tooling'],datasets:[{data:[18,15,30,12,25]}]},options:{plugins:{legend:{position:'bottom'}}}})
+
+</div>
+
+**Como editar o donut:** basta alterar os números dentro de `data:[18,15,30,12,25]` para as porcentagens que quiser. O QuickChart gera a imagem com base nesses valores.
+
+---
 
 ---
 
