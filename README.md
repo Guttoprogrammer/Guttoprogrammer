@@ -33,10 +33,3 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttoprogrammer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
