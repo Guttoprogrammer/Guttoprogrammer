@@ -35,6 +35,18 @@
 
 ## 📈 Estatísticas do GitHub
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttoprogrammer&theme=radical" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guttoprogrammer&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guttoprogrammer&theme=radical" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guttoprogrammer&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guttoprogrammer&theme=radical" />
+
+</div>
+
 ---
 
 ## 🔥 Contribution Heatmap
@@ -47,23 +59,6 @@
 </div>
 
 ---
-
-## 🧠 Skills — Distribuição por Porcentagem (Donut)
-
-> Exemplo gerado com QuickChart. Edite os números `data` conforme suas porcentagens reais.
-
-<div align="center">
-
-![Skills Donut](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['HTML','CSS','JavaScript','TypeScript','Frameworks/Tooling'],datasets:[{data:[18,15,30,12,25]}]},options:{plugins:{legend:{position:'bottom'}}}})
-
-</div>
-
-**Como editar o donut:** basta alterar os números dentro de `data:[18,15,30,12,25]` para as porcentagens que quiser. O QuickChart gera a imagem com base nesses valores.
-
----
-
----
-
 
 ## 🔥 Gráfico de Atividade
 
