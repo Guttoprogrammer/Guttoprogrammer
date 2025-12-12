@@ -42,8 +42,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guttoprogrammer&theme=radical" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guttoprogrammer&theme=radical" />
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guttoprogrammer&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guttoprogrammer&theme=radical" />
 
 </div>
 
@@ -59,14 +57,5 @@
 </div>
 
 ---
-
-## 🔥 Gráfico de Atividade
-
-<div align="center">
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guttoprogrammer&theme=react-dark&hide_border=true" />
-
-</div>
 
 
